@@ -44,6 +44,9 @@ selectWords(str)
 # ['Contractions', 'include', 'don’t', 'isn’t', 'and', 'wouldn’t']
 
 
+# Поправка
+
+
 
 
 
